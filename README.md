@@ -108,4 +108,4 @@
 + 学习Node不仅会帮助大家打开服务端黑盒子，同时会帮助你学习以后的前端高级内容
   + 如 Vue.js
   + React
-  + angular
+  + angular等等
